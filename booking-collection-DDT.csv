@@ -1,0 +1,7 @@
+first_name,last_name,total_price,deposit_paid,check_in,check_out,additional_needs
+Omar,Hossain,204,TRUE,25-06-25,28-06-25,Lunch
+Halim,Vai,306,FALSE,26-06-25,29-06-25,Breakfast
+Harun,Rashid,890,TRUE,27-06-25,30-06-25,Dinner
+Hakim,Molla,2134,FALSE,28-06-25,01-07-25,Breakfast
+Jakir,Hasan,2043,TRUE,29-06-25,02-07-25,Dinner
+Jibon,Bepari,9054,FALSE,30-06-25,03-07-25,Lunch
