@@ -30,15 +30,11 @@ It verifies the following key aspects:
 
 ## 📁 Project Structure
 
-# API Test Booking — Reports
+## 🧪 Newman Reports (Visual Overview)
 
-## 📊 Newman HTML Report
+### Report Summary
+![Report Summary](./report/newman/Booking-Collection-Testing-2025-06-26-11-14-15-107-0.jpg)
 
-You can view the generated API test report here:
-
-[View Newman Report](./report/newman/index.html)
-
-Alternatively, if GitHub Pages is enabled:
-
-[Live Newman Report](https://github.com/abdullahalomar.github.io/API-Test-Booking/report/newman/index.html)
+### Detailed Report
+![Detailed Report](./report/newman/newman-run-report-2025-06-26-11-12-59-027-0.jpg)
 
