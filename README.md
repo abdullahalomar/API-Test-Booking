@@ -30,3 +30,15 @@ It verifies the following key aspects:
 
 ## 📁 Project Structure
 
+# API Test Booking — Reports
+
+## 📊 Newman HTML Report
+
+You can view the generated API test report here:
+
+[View Newman Report](./report/newman/index.html)
+
+Alternatively, if GitHub Pages is enabled:
+
+[Live Newman Report](https://your-username.github.io/API-Test-Booking/report/newman/index.html)
+
