@@ -40,5 +40,5 @@ You can view the generated API test report here:
 
 Alternatively, if GitHub Pages is enabled:
 
-[Live Newman Report](https://your-username.github.io/API-Test-Booking/report/newman/index.html)
+[Live Newman Report](https://github.com/abdullahalomar.github.io/API-Test-Booking/report/newman/index.html)
 
