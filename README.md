@@ -1,6 +1,6 @@
 # 🧪 API Testing Project
 
-This project contains automated **API tests** written in JavaScript using **Cypress** (or any test framework you’re using).  
+This project contains automated **API tests** written in JavaScript and Postman.  
 It ensures all API endpoints are validated for functionality, performance, and reliability.
 
 ---
@@ -20,12 +20,11 @@ It verifies the following key aspects:
 
 | Tool | Purpose |
 |------|----------|
-| **Cypress** | API testing framework |
 | **Mocha** | Test runner |
 | **Chai** | Assertions |
 | **Node.js** | Runtime environment |
 | **npm** | Dependency management |
-| **Allure / Mochawesome** *(optional)* | Reporting |
+| **Newman** | Reporting |
 
 ---
 
